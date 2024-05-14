@@ -10,5 +10,3 @@ We have 2 users type, admin and user comum.
 
 ### Connection String
 Note: To run this system it's necessary to change the Connection String, for this access: 0-Portal -> appsettings.json -> CONNECTION_STRING and CONNECTION_STRING_DEBUG
-
-![image](https://github.com/heberGustavo/C-Sharp/assets/44476616/b238122f-d32a-4942-96f9-810f4b75b4c9)
